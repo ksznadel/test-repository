@@ -1,4 +1,4 @@
-This is a test projct
+This is a test project
 
 # Examples
 
